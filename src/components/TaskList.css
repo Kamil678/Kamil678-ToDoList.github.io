@@ -1,0 +1,25 @@
+.activeTasks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+
+}
+
+.activeTasks h2 {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.activeTasks h3 {
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.activeTasks div {
+    width: 500px;
+}
+
