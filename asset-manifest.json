@@ -1,13 +1,13 @@
 {
-  "main.css": "/ToDoList/static/css/main.b84f2a99.chunk.css",
-  "main.js": "/ToDoList/static/js/main.8e0ceaa4.chunk.js",
-  "main.js.map": "/ToDoList/static/js/main.8e0ceaa4.chunk.js.map",
-  "static/js/1.f6b84cc0.chunk.js": "/ToDoList/static/js/1.f6b84cc0.chunk.js",
-  "static/js/1.f6b84cc0.chunk.js.map": "/ToDoList/static/js/1.f6b84cc0.chunk.js.map",
-  "runtime~main.js": "/ToDoList/static/js/runtime~main.b0420226.js",
-  "runtime~main.js.map": "/ToDoList/static/js/runtime~main.b0420226.js.map",
-  "static/css/main.b84f2a99.chunk.css.map": "/ToDoList/static/css/main.b84f2a99.chunk.css.map",
-  "index.html": "/ToDoList/index.html",
-  "precache-manifest.789f942b09623acd631c24167a3e30b0.js": "/ToDoList/precache-manifest.789f942b09623acd631c24167a3e30b0.js",
-  "service-worker.js": "/ToDoList/service-worker.js"
+  "main.css": "/Kamil678/ToDoList.github.io/static/css/main.b84f2a99.chunk.css",
+  "main.js": "/Kamil678/ToDoList.github.io/static/js/main.8e0ceaa4.chunk.js",
+  "main.js.map": "/Kamil678/ToDoList.github.io/static/js/main.8e0ceaa4.chunk.js.map",
+  "static/js/1.f6b84cc0.chunk.js": "/Kamil678/ToDoList.github.io/static/js/1.f6b84cc0.chunk.js",
+  "static/js/1.f6b84cc0.chunk.js.map": "/Kamil678/ToDoList.github.io/static/js/1.f6b84cc0.chunk.js.map",
+  "runtime~main.js": "/Kamil678/ToDoList.github.io/static/js/runtime~main.1524f644.js",
+  "runtime~main.js.map": "/Kamil678/ToDoList.github.io/static/js/runtime~main.1524f644.js.map",
+  "static/css/main.b84f2a99.chunk.css.map": "/Kamil678/ToDoList.github.io/static/css/main.b84f2a99.chunk.css.map",
+  "index.html": "/Kamil678/ToDoList.github.io/index.html",
+  "precache-manifest.aa199057ff8b88e769dda695a9b1cdb8.js": "/Kamil678/ToDoList.github.io/precache-manifest.aa199057ff8b88e769dda695a9b1cdb8.js",
+  "service-worker.js": "/Kamil678/ToDoList.github.io/service-worker.js"
 }
